@@ -21,5 +21,5 @@ Frontend development (Hush! It's a secret~ :sunglasses:)
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-amon" />
-
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-amon" />
+ -->
