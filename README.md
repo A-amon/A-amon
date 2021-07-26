@@ -8,9 +8,9 @@ I am currently interested in Frontend Development :satisfied:
 and have been polishing my basics on it 
 
 ## What I enjoy
-- Receiving constructive feedback (as well as being on the giving side!) :gift: <br>
-- Learning (Getting new knowledge is just too tempting!) :satisfied: <br>
-- Having a beginner's mindset (Pride & ego is one's worst enemy :cold_sweat:) <br>
+- Receiving constructive feedback (as well as being on the giving side!) :gift:
+- Learning (Getting new knowledge is just too tempting!) :satisfied:
+- Having a beginner's mindset (Pride & ego is one's worst enemy :cold_sweat:)
 - Frontend development (Hush! It's a secret~ :sunglasses:)
 
 ## Projects
