@@ -2,19 +2,19 @@
 
 ### Hi there 👋
 
-Welcome to my repo! 
-
 I'm a Computer Science student.
 
 I am currently interested in Frontend Development :satisfied:
-and have been polishing my basics on it <br> 
-(Do check out my repositories while you are at it :wink:)
+and have been polishing my basics on it 
 
 ## What I enjoy
 Receiving constructive feedback (as well as being on the giving side!) :gift: <br>
 Learning (Getting new knowledge is just too tempting!) :satisfied: <br>
 Having a beginner's mindset (Pride & ego is one's worst enemy :cold_sweat:) <br>
 Frontend development (Hush! It's a secret~ :sunglasses:)
+
+## Projects
+Check out my projects [here](https://github.com/A-amon/Projects) 😉
 
 ## Technologies & Tools 
 **Languages**
