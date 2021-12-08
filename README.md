@@ -2,8 +2,6 @@
 
 ### Hi there 👋
 
-I'm a Computer Science student.
-
 I am currently interested in Frontend Development :satisfied:
 and have been polishing my basics on it 
 
